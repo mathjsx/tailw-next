@@ -6,7 +6,7 @@ const Home: React.FC = () => {
   const colors = ['bg-red-200', 'bg-green-200', 'bg-blue-200', 'bg-yellow-200', 'bg-purple-200'];
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center space-y-4">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-blue-300 space-y-4">
       <Head>
         <title>Home</title>
       </Head>
